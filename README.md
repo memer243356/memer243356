@@ -14,11 +14,11 @@
 
  🔭 I’m currently working on [My portfolio website]()
 
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **Python**
 
- 💬 Ask me about **Cibersecurity, Web development, Networks, MySQL**
+ 💬 Ask me about **Cibersecurity, Web development**
 
- 📫 Reach out to me: **contacto.sandroshki@gmail.com**
+ 📫 Reach out to me: **rodrigopacheco623@gmail.com**
 
  ✍ You can find my resume [here]()
 
